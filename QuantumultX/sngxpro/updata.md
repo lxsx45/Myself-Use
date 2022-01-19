@@ -21,19 +21,19 @@
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -54,13 +54,13 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -85,19 +85,19 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -114,13 +114,13 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：需配合jd cookie使用
@@ -150,22 +150,22 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：因网红店与食材大冲关、超市小达人、动物研究所冲突，需配合下方专用订阅使用，请复制下方订阅粘贴到对应标签下，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/wdwhd.conff, tag=我的网红店获取ck（与获取cookie、超市、动物规则冲突）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/wdwhd.conff, tag=我的网红店获取ck（与获取cookie、超市、动物规则冲突）, update-interval=86400, opt-parser=false, enabled=true
 
 
 ```
@@ -186,11 +186,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合jd cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 
@@ -206,13 +206,13 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 【圈x订阅地址】
 ```
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ```
 【v2p订阅地址】
 ```
 需翻墙
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 ### 注意：因与食材大冲关、超市小达人冲突，需配合下方专用订阅使用，请复制下方订阅粘贴到对应标签下，或自行按脚本说明手动配置
@@ -220,7 +220,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/dwyjy.conf, tag=动物研究院获取ck（与获取cookie、超市达人规则冲突）, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/dwyjy.conf, tag=动物研究院获取ck（与获取cookie、超市达人规则冲突）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -253,25 +253,25 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
 【圈x订阅地址】
 ```
 需翻墙普通链接（稳定、更新快速）
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 免翻墙中转链接（不需要节点）
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址】
 ```
 需翻墙普通地址（稳定、更新快速）
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 免翻墙中转链接（不需要节点）
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -293,7 +293,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 
 【v2p订阅地址】
@@ -314,18 +314,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -360,18 +360,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -401,18 +401,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -439,18 +439,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -467,7 +467,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 --------------
@@ -494,18 +494,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -525,18 +525,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -554,17 +554,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -588,17 +588,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -615,17 +615,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -641,17 +641,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -665,17 +665,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -692,17 +692,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -727,17 +727,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -754,19 +754,19 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，使用我的懒人包的，在配置文件的重写订阅中删除行首的#启用，也可手动加入以下订阅配置
 ### 启用配置后，长按首页右下角风车--点左下角刷新按钮--左上角红点全部消失即可生效
 
 ```
 [rewrite remote]
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianheuser.conf, tag=肥皂千禾账户ck先开（不和后开同时打勾）, update-interval=86400, opt-parser=false, enabled=true
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianhetask.conf, tag=肥皂千禾任务ck后开（不和先开同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/qianheuser.conf, tag=肥皂千禾账户ck先开（不和后开同时打勾）, update-interval=86400, opt-parser=false, enabled=true
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/qianhetask.conf, tag=肥皂千禾任务ck后开（不和先开同时打勾）, update-interval=86400, opt-parser=false, enabled=false
 
 
 ```
@@ -784,17 +784,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -814,17 +814,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------
@@ -844,17 +844,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -872,17 +872,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------------------
@@ -903,17 +903,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 ------------------------
@@ -931,17 +931,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -959,11 +959,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 -----------------
 
@@ -985,7 +985,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击`左下角刷新按钮`即可生效
 
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1005,17 +1005,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1033,17 +1033,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1062,11 +1062,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 
@@ -1093,17 +1093,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1120,17 +1120,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1187,7 +1187,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击左下角`刷新按钮`即可生效
 
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1204,17 +1204,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1237,17 +1237,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1287,7 +1287,7 @@ http://club.i50dh.net/chan/h50269/G5yU
 复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击左下角`刷新按钮`即可生效
 
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1301,17 +1301,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -1330,18 +1330,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 #两个重写按照脚本说明的顺序选后独立启用，每次启用后请圈x首页长按风车再点左下角刷新按钮确保同步到位
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianheuser.conf, tag=肥皂千禾ck先开（不能和后开混用）, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianhetask.conf, tag=肥皂千禾ck后开（不能和先开混用）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/qianheuser.conf, tag=肥皂千禾ck先开（不能和后开混用）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/qianhetask.conf, tag=肥皂千禾ck后开（不能和先开混用）, update-interval=86400, opt-parser=false, enabled=false
 ```
 
 ### 公众号少年歌行pro：4月12日18:00，脚本进行如下变动：
@@ -1353,11 +1353,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianhetask.conf, 
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
@@ -1371,17 +1371,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ------------
@@ -1398,17 +1398,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ------------
@@ -1430,17 +1430,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ------------
@@ -1463,17 +1463,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ------------
@@ -1543,22 +1543,22 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 [rewrite_remote]
 ```
 #上方是推荐启用配置
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokJP.conf, tag=tiktok解锁日区（勿混用）, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokTW.conf, tag=tiktok解锁台区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokKR.conf, tag=tiktok解锁韩区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokUS.conf, tag=tiktok解锁美区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokJP.conf, tag=tiktok解锁日区（勿混用）, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokTW.conf, tag=tiktok解锁台区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokKR.conf, tag=tiktok解锁韩区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokUS.conf, tag=tiktok解锁美区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJs, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/YouTube.conf, tag=YouTube去广告, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/price.conf, tag=淘宝京东比价格, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/YouTube.conf, tag=YouTube去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/price.conf, tag=淘宝京东比价格, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机去广告, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机重定向, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 #下方是可选配置，有需要的删除行首的井号即可生效
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/shuqiheader.conf, tag=ziye书旗ck先开（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=true
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/shuqibody.conf, tag=ziye书旗ck后开（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/shuqibook.conf, tag=ziye书旗书城ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/shuqiheader.conf, tag=ziye书旗ck先开（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=true
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/shuqibody.conf, tag=ziye书旗ck后开（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/shuqibook.conf, tag=ziye书旗书城ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
 #https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/cookie.conf, tag=姐姐书旗一般ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
 #https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/spcookie.conf, tag=姐姐书旗极速ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
 #https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/lottery.conf, tag=姐姐书旗一般转转转ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
@@ -1566,9 +1566,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 #https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=sunert中青cookie获取,  update-interval=86400, opt-parser=false, enabled=true
 #https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_youthread.txt, tag=sunert中青阅读body获取,  update-interval=86400, opt-parser=false, enabled=false
 #https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zqkkz.plugin, tag=中青看看赚&浏览赚Cookie获取（需资源解析器）, update-interval=86400, opt-parser=true, enabled=false
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqbody.conf, tag=简单天气body（第一个开，单独开）, update-interval=86400, opt-parser=false, enabled=false
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqapi.conf, tag=简单天气api（第二个开，单开）, update-interval=86400, opt-parser=false, enabled=false
-#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqevent.conf, tag=简单天气event（第三个开，单开）, update-interval=86400, opt-parser=false, enabled=false
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/jdtqbody.conf, tag=简单天气body（第一个开，单独开）, update-interval=86400, opt-parser=false, enabled=false
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/jdtqapi.conf, tag=简单天气api（第二个开，单开）, update-interval=86400, opt-parser=false, enabled=false
+#https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/jdtqevent.conf, tag=简单天气event（第三个开，单开）, update-interval=86400, opt-parser=false, enabled=false
 ```
 
 [http_backend]
@@ -1601,7 +1601,7 @@ APPstore外区搜索下载，建议搜索共享账号
 
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -1634,10 +1634,10 @@ static=TikTok, proxy, img-url=https://raw.githubusercontent.com/sngxpro/icons/ma
 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
 
 [rewrite_remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokJP.conf, tag=tiktok解锁日区（勿混用）, update-interval=86400, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokTW.conf, tag=tiktok解锁台区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokKR.conf, tag=tiktok解锁韩区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokUS.conf, tag=tiktok解锁美区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokJP.conf, tag=tiktok解锁日区（勿混用）, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokTW.conf, tag=tiktok解锁台区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokKR.conf, tag=tiktok解锁韩区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/tiktokUS.conf, tag=tiktok解锁美区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
 
 ```
 
@@ -1657,17 +1657,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokUS.conf, ta
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -1685,17 +1685,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ------------
@@ -1715,7 +1715,7 @@ https://caoni-99.com/webApp/root/static/AppTabView/screen/static/OfficialShareVi
 
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -1730,17 +1730,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ----------------
@@ -1755,17 +1755,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ----------------
@@ -1824,17 +1824,17 @@ task订阅模式选择为替换，从task订阅中直接添加一次即可
 
 【圈x订阅地址】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 ```
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 ### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ------------
@@ -1858,7 +1858,7 @@ https://hkj.lanzous.com/ie7zAnexo2b
 
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -1902,7 +1902,7 @@ https://4sq6zh6.cn/5858489?tmp=dy&dir=0
 
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -1921,7 +1921,7 @@ Appstore搜索下载即可
 
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -1942,11 +1942,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -1967,11 +1967,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -1979,7 +1979,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ````
 ------------
@@ -1996,11 +1996,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -2009,9 +2009,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 #需要抓41个cookie，按下方注明的顺序分批次单独启动，并查看脚本中的ck获取顺序
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqbody.conf, tag=简单天气body（第一个开，单独开）, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqapi.conf, tag=简单天气api（第二个开，单开）, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqevent.conf, tag=简单天气event（第三个开，单开）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/jdtqbody.conf, tag=简单天气body（第一个开，单独开）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/jdtqapi.conf, tag=简单天气api（第二个开，单开）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/jdtqevent.conf, tag=简单天气event（第三个开，单开）, update-interval=86400, opt-parser=false, enabled=false
 ```
 
 ----------------------
@@ -2032,11 +2032,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqevent.conf, t
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -2044,7 +2044,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 -----------
@@ -2067,11 +2067,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -2079,7 +2079,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 -----------
@@ -2097,11 +2097,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -2109,7 +2109,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 -----------
@@ -2139,11 +2139,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -2151,7 +2151,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -2172,7 +2172,7 @@ https://app.1zp8.xyz/i-27LULA
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ---------------
@@ -2196,11 +2196,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ```
 
@@ -2224,7 +2224,7 @@ https://app.18sa.xyz/i-S3FM6X
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ---------------
@@ -2256,11 +2256,11 @@ i-chenzhe 大佬的库消失了……
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2284,7 +2284,7 @@ appstore下载即可
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ---------------
@@ -2307,11 +2307,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2351,11 +2351,11 @@ https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/ziye.boxjs.json
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合cookie使用，因替换成了我的临时地址，请使用我的cookie订阅
@@ -2363,7 +2363,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -2385,11 +2385,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2411,11 +2411,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
@@ -2423,7 +2423,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -2446,11 +2446,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
@@ -2458,7 +2458,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -2482,7 +2482,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 ####  ios12及以下系统懒人包地址【测试版】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/ForIos12.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/ForIos12.conf
 
 ### bug请反馈我 
 ```
@@ -2520,7 +2520,7 @@ TG：https://t.me/sngxpro
 
 [rewrite_remote]
 #将下方链接复制并粘贴到圈x配置文件的上面那个标签位置，然后在圈x首页长按风车、再点击左下角刷新按钮，完成后生效
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -2552,11 +2552,11 @@ https://wws.lanzous.com/s/seyou02
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2579,11 +2579,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2605,11 +2605,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2635,11 +2635,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
@@ -2647,7 +2647,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```
 [rewrite remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 
 ```
 
@@ -2669,11 +2669,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2696,11 +2696,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2717,7 +2717,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 ```
 [rewrite_remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/palipalivip.conf, tag=啪哩啪哩破解（与其他规则冲突用完就关闭）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/palipalivip.conf, tag=啪哩啪哩破解（与其他规则冲突用完就关闭）, update-interval=86400, opt-parser=false, enabled=false
 
 ```
 -----------------
@@ -2737,11 +2737,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/palipalivip.conf,
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合jd cookie使用
@@ -2759,18 +2759,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 ```properties
 【圈x订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 ```
 
 #### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
 ```properties
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 ```
 
@@ -2790,11 +2790,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 ### 获取cookie订阅 （共4条，自行复制后粘贴到圈x配置对应位置）
@@ -2822,11 +2822,11 @@ https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/readme.js
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合cookie使用
@@ -2845,18 +2845,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 
 -------------
@@ -2870,18 +2870,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 
 -------------------
@@ -2898,7 +2898,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 -------------------
@@ -2914,18 +2914,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 
 --------------
@@ -2940,7 +2940,7 @@ app可在appstore中下载。规则需登录账号后才生效。
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -2956,7 +2956,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -2970,7 +2970,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -2986,11 +2986,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數310個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ### 注意：需配合jd的cookie使用
 
@@ -3013,18 +3013,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數310個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
  
  ---------------------
@@ -3039,11 +3039,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數310個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 -----------------------------
@@ -3057,18 +3057,18 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 ##### 获取cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 ------------------------------
 
@@ -3126,16 +3126,16 @@ https://pan.meitudou.cn/Task/ziye.boxjs.json<br>
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ##### 解锁vip订阅
 
 [rewrite_remote]<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 ### ziye的脚本一会更换一下临时地址
@@ -3155,11 +3155,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 ##### 注意：以上脚本需配合jd的cookie使用
 
@@ -3177,7 +3177,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 ------------------
@@ -3194,17 +3194,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 #### 获取cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -3222,7 +3222,7 @@ app下载地址：http://app.exxanz.com/?code=SQDDAH
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 ----------------------
@@ -3238,17 +3238,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數303個】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 #### 获取cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -3268,24 +3268,24 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 #### 获取cookie订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 
 #### 解锁vip订阅
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -3303,7 +3303,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 我为 blackmatrix7 的饿了么脚本 写了一个boxjs订阅
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/boxjslist/blackmatrix7.boxjs.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/boxjslist/blackmatrix7.boxjs.json
 
 -----------------
 
@@ -3322,11 +3322,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/boxjslist/blackmatrix7.bo
 
 【圈x订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 ### （二）获取cookie订阅 更新说明
@@ -3341,7 +3341,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 
 ### （三）解锁vip订阅 更新说明
@@ -3354,7 +3354,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -3372,10 +3372,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 #### 仓库订阅地址：
 
 【圈x订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
  
@@ -3390,10 +3390,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 #### 仓库订阅地址：
 
 【圈x订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合jd的ck使用
@@ -3409,10 +3409,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 #### 仓库订阅地址：
 
 【圈x订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：需配合jd的ck使用
@@ -3431,17 +3431,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 #### 仓库订阅地址：
 
 【圈x订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意
 
 1、以上仓库仅包含定时任务，cookie需配合我的获取cookie订阅得到
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 
 2、子夜大佬的boxjs更换地址为
@@ -3459,10 +3459,10 @@ https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/ziye.boxjs.json
 #### 仓库订阅地址：
 
 【圈x订阅地址】
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 【v2p订阅地址】
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 
 #### 注意：
@@ -3491,7 +3491,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 #### 订阅地址：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/V2pTaskSub/sngxprov2p.json
 
 #### 使用方法：
 
@@ -3518,10 +3518,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
      2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      
      
 #### 注意
@@ -3530,7 +3530,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动加入我的远程获取cookie订阅：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~  
 
@@ -3548,10 +3548,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
      2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      
      
 #### 注意
@@ -3560,7 +3560,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动加入我的远程获取cookie订阅：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~  
 
@@ -3583,7 +3583,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
     一次添加，以后后台自动更新 （全局代理模式下）
     
@@ -3593,7 +3593,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动加入我的远程获取cookie订阅：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf   
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf   
 
 
 
@@ -3609,10 +3609,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
      2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      
      
 #### 注意
@@ -3621,7 +3621,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动加入我的远程获取cookie订阅：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~  
 
@@ -3636,13 +3636,13 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
      2、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含ichenzhe大佬的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/i-chenzhe.json
      
      3、公众号少年歌行Pro整理的【LXK0301】 task仓库订阅地址，只包含lxk0301大佬的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/lxk0301.json
 
 #### 注意
 
@@ -3661,10 +3661,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
      2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
 
 
 #### 注意
@@ -3673,7 +3673,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动加入我的远程获取cookie订阅：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~  
 
@@ -3690,10 +3690,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
     
      2、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/ZhiYi-N.json
 
 
 #### 注意
@@ -3702,7 +3702,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动加入我的远程获取cookie订阅：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~  
 
@@ -3724,7 +3724,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 
 #### 注意
@@ -3733,7 +3733,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~  
 
@@ -3753,10 +3753,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【evilbutcher】 task仓库订阅地址，只包含evilbutcher大佬制作的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/evilbutcher.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/evilbutcher.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 注意
 以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
@@ -3764,7 +3764,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
 
@@ -3784,10 +3784,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬制作的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/lxk0301.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 ###  公众号少年歌行pro：2月22日11:00，增加了以下脚本 ：
 
@@ -3801,10 +3801,10 @@ ziye的boxjs订阅地址：https://raw.githubusercontent.com/ziye66666/JavaScrip
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【ziye】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ziye.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/ziye.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 注意
 以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
@@ -3812,7 +3812,7 @@ ziye的boxjs订阅地址：https://raw.githubusercontent.com/ziye66666/JavaScrip
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
 
@@ -3831,10 +3831,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
  1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬的所有脚本（目前41个）；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/lxk0301.json
      
 2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，lxk0301大佬的脚本当然也有（目前264个）：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 
 ----------------------------------------------
@@ -3847,10 +3847,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 注意
 以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
@@ -3858,7 +3858,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
 
@@ -3884,10 +3884,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/i-chenzhe.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 注意
 以上订阅仓库中仅包含task订阅，必须要配合京东cookie才能正确使用，<br>
@@ -3895,7 +3895,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
 
@@ -3910,10 +3910,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 注意
 以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
@@ -3921,7 +3921,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
 
@@ -3943,10 +3943,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/i-chenzhe.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 注意
 以上订阅仓库中仅包含task订阅，必须要配合京东cookie才能正确使用，<br>
@@ -3954,7 +3954,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
      
@@ -3969,10 +3969,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### APP下载地址
 http://snail2020.com/feyu
@@ -3982,7 +3982,7 @@ http://snail2020.com/feyu
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~
 
@@ -4004,23 +4004,23 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 使用了本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；<br>
 未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/rewrite/unlockvip.conf
 
 
 ###  公众号少年歌行pro：2月15日15:00，增加了执意的 燃旅视频 脚本 ：
 
 #### 为这个脚本制作了一个图标（下图），美化了一下，可以自行引用
 
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg" width="20%">
+<img src="https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/icons/ranlv.jpg" width="20%">
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/ZhiYi-N.json
      2、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 #### 可引用以下地址作为脚本图标
-https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/icons/ranlv.jpg
 
 
 ##  公众号少年歌行pro：2月15日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
@@ -4042,11 +4042,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
      
 ##### 以上所述脚本可订阅以下仓库获得：
      1、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含上述脚本1-3；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/i-chenzhe.json
      2、公众号少年歌行Pro整理的【ag174】 task仓库订阅地址，只包含上述脚本4-7：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
      3、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述1-7都有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 
 #### 有bug或其他事宜，请发送邮件到sngxpro@111.com
@@ -4064,10 +4064,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
 #### （二）新增部分脚本
      新增i-chenzhe的 百变大咖秀 脚本，已同步加入我整理的i-chenzhe仓库和我的全网合一仓库
      公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址：<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/i-chenzhe.json
 
 公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址：<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
      
 
 #### （三）新增了部分破解重写规则
@@ -4095,10 +4095,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 1、如已经添加过我整理的lxk0301仓库，或我整理的全网合一仓库，在你打开圈x代理并重启圈x app后，仓库中会自动出现新脚本；<br>
 
 公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址：<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/lxk0301.json
 
 公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址：<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 
 2、如果重启圈x app后还没有自动同步脚本，可以在圈x首页长按右下方风车，再点击左下角出现的刷新按钮，手动刷新；<br>
 
@@ -4181,8 +4181,8 @@ hostname=veishop.iboxpay.com,
 
 ### 2021年2月4日，增加了i-chenzhe大佬的 京东压岁钱 脚本和 京东直播红包雨脚本 ，您可订阅c-chenzhe单独订阅仓库，或直接订阅我的全网合一仓库
 
-#### i-chenzhe仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### i-chenzhe仓库订阅地址：https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/i-chenzhe.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 #### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
 仓库订阅的一键使用方法可参见群公告具体说明
 
@@ -4202,8 +4202,8 @@ hostname=veishop.iboxpay.com,
 
 ### 2021年2月1日，增加了多看点app自动任务脚本，脚本已加入了age174仓库和我的全网合一仓库，
 app下载地址：http://dkd-api.dysdk.com/share.html?uid=13179965<br>
-#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 #### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
 仓库订阅的一键使用方法可参见群公告具体说明
 
@@ -4229,8 +4229,8 @@ hostname = dkd-api.dysdk.com
 ----------------------------
 
 ### 2021年2月1日，增加了bigfun连续签到脚本，脚本已加入了age174仓库和我的全网合一仓库，
-#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/age174.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/task/AllinOne.json
 #### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
 仓库订阅的一键使用方法可参见群公告具体说明
 
@@ -4258,7 +4258,7 @@ hostname = api.bigfun.cn
 
 
 ### 2021年1月30日，对懒人包的基础订阅包进行了更新（非自动脚本哦），订阅地址：
-  https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
+  https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/sngx2021.conf
 ### 主要更新内容有：
 ### 1、增加了网易云解锁灰色功能,按配置的策略和对应节点，白色风车和蓝色风车下可以解锁网易云灰色歌曲。
 ### 2、修复了抖音去广告和去水印脚本造成的黑屏问题，目前去广告和去水印都正常了。

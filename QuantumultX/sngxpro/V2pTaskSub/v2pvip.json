@@ -397,7 +397,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js"
+        "target": "https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/ygkc.js"
       }
     }, 
     {

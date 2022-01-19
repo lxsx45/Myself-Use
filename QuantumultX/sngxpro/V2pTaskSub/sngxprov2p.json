@@ -1145,7 +1145,7 @@
       "time": "15 0,6,13,19,21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ddo_pk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/ddo_pk.js"
       }
     },	
 	  {
@@ -1226,7 +1226,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/jay_member_olb.js"
       }
     },	
 	{
@@ -1262,7 +1262,7 @@
       "time": "0 15-19/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_party_night.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/jd_party_night.js"
       }
     },	
 	  {
@@ -1289,7 +1289,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_13.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_13.js"
       }
     },	
 	  {
@@ -1298,7 +1298,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_12.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_12.js"
       }
     },	
 	  {
@@ -1316,7 +1316,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_11.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_11.js"
       }
     },	
 	  {
@@ -1334,7 +1334,7 @@
       "time": "0 0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_xtg_help.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/jd_xtg_help.js"
       }
     },	
 	  {
@@ -1379,7 +1379,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_10.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_10.js"
       }
     },	
 	  {
@@ -1406,7 +1406,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_freshgoods.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/jay_freshgoods.js"
       }
     },	
 	  {
@@ -1478,7 +1478,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_09.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_09.js"
       }
     },	 
 	   {
@@ -1505,7 +1505,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_unbind.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/jd_unbind.js"
       }
     },	
 	    {
@@ -1514,7 +1514,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_08.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_08.js"
       }
     },	
 	   {
@@ -1631,7 +1631,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_05.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_05.js"
       }
     },	 
 	  {
@@ -1640,7 +1640,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_02.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_02.js"
       }
     },	 
 	   {
@@ -1649,7 +1649,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_03.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/member_03.js"
       }
     },	 
 	{
@@ -2243,7 +2243,7 @@
       "time": "0 0 1 1 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/cgwz.js"
       }
     },   
      {
@@ -2315,7 +2315,7 @@
       "time": "1 7,12,19 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/jd_beauty.js"
       }
     }, 
     {
@@ -2567,7 +2567,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/sngxpro/scripts/ygkc.js"
       }
     }, 
     {
