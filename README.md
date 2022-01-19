@@ -1,6 +1,15 @@
 # Mine
 我的个人使用软件备份
 随缘更新，内容纯属搬砖，啥都不会
+
+### 说明 :
+
+* 只是搬运和同步更新大佬脚本.
+
+* 不负责维护脚本.
+
+* 只测试自用脚本，其他大部分脚本未测试可用性.
+
 # 内容
 目前更新了两款软件的内容
 - [QuantumultX](https://github.com/54lxsx/Myself-Use/tree/master/QuantumultX)
