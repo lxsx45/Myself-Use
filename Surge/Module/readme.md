@@ -14,7 +14,7 @@
 - [修改Apple地区定位为美国](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Geo_Services.sgmodule)
 - [GitHub访问加速](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Geo_Services.sgmodule)
 - [京东比价](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/JD_Price.sgmodule)
-- [百度 Quark 的 User-Agent](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/ChangeUA.sgmodule)
+- [修改User-Agent为百度的](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/ChangeUA.sgmodule)
 - [京东任务和Cookie模块](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/JD_Task_And_Cookie.sgmodule)
 - [New Advanced Settings & URL Redirect](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/NewGeneral.sgmodule)
 - [配置重载面板](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Profile_Reload.sgmodule)
