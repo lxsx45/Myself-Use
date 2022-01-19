@@ -1,0 +1,291 @@
+#!name=脚本合集
+#!desc=该模块为脚本合集,脚本全部来自网络.一些脚本独立于 https://raw.githubusercontent.com/mymoonyue/Surge/master/For-own-use.sgmodule 可搭配使用.
+#!system=ios
+
+[General]
+
+# > 优酷 去广告
+force-http-engine-hosts = %APPEND% vali.cp31.ott.cibntv.net
+
+[Rule]
+
+# > 京东  去启动广告
+URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
+# > 人人视频 去广告
+AND,((USER-AGENT,PUClient*), (NOT,((DOMAIN-SUFFIX,rr.tv)))),REJECT
+URL-REGEX,^https?:\/\/api\.rr\.tv\/(?:ad\/getAll$|storage/business/rootName/app/homePage),REJECT
+# > 优酷 去广告
+URL-REGEX,^http:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/,REJECT-TINYGIF
+# > 爱美剧 去广告
+URL-REGEX,^http(s)://api.bjxkhc.com/index.php/app/ios/pay/ok$ ,REJECT-TINYGIF
+URL-REGEX,^http(s)://api.bjxkhc.com/index.php/app/ios/ver/index_ios$,REJECT
+URL-REGEX,^http(s)://api.bjxkhc.com/index.php/app/ios/ads/index,REJECT-TINYGIF
+
+[Header Rewrite]
+
+# > 小小影视vip (By Eric)
+https:\/\/.*.xiaoxiao(img|apps|appxs).com header-replace Cookie xxx_api_auth=6131333537653261363463323331666265663763396239663835636662373930
+
+
+[Script]
+
+# ＞彩云天气解锁vip
+http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user) script-path=https://raw.githubusercontent.com/mymoonyue/QuantumultX/master/Scripts/scripts/caiyun_svip.js, requires-body=true, timeout=10
+
+# > NobyDa整理
+# > 人人视频 去广告
+http-response ^https?:\/\/api\.rr\.tv\/watch\/v\d\/get_movie_info requires-body=1,script-path=https://Choler.github.io/Surge/Script/rrsp.js,tag=人人视频去广告
+http-response ^https?:\/\/api\.rr\.tv\/v\dplus\/index\/channel$ requires-body=1,script-path=https://Choler.github.io/Surge/Script/rrsp.js,tag=人人视频去广告
+# > 小小影视  去广告(By Eric)
+http-response ^https:\/\/.*\/getGlobalData requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/xxysad.js,tag=小小影视去广告
+# > 爱美剧Vip (by huihui）(官网：app.meiju2018.com)
+http-response ^https?:\/\/api.bjxkhc.com\/index\.php\/app\/ios\/(vod\/show|(user|vod|topic|type)\/index) requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/aimeiju.js,tag=爱美剧VIP
+# > 网易蜗牛读书VIP (By yxiaocai and JO2EY)
+http-response ^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/wnyd.js,tag=网易蜗牛读书VIP
+# > 知音漫客VIP (By mieqq)
+http-response ^https://getuserinfo-globalapi.zymk.cn/app_api/v5/(getuserinfo|coin_account|getuserinfo_ticket|getcomicinfo)/ requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js,tag=知音漫客VIP
+# > VSCO滤镜VIP
+http-response ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ requires-body=1,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/NobyDa/QuantumultX/File/vsco.js,tag=VSCO滤镜VIP
+# > 大片-视频编辑器 VIP
+http-response ^https?:\/\/api\.vnision\.com\/v1\/(users\/|banners) requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/dapian.js,tag=大片-视频编辑器 VIP
+# > 91短视频
+http-response “^https?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/api.php$” requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/91.js,tag=91短视频
+# > 香蕉视频VIP
+http-response ^https?:\/\/.*\.(lago|fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/) requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js,tag=香蕉视频VIP
+# > 陆琪讲故事
+http-response ^https:\/\/www\.luqijianggushi\.com\/api\/v2\/user\/get requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/luqi.js,tag=陆琪讲故事
+# > WPS (By eHpo)
+http-response ^https://account.wps.*/api/users/ requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Wps.js,tag=WPS
+# > Gyroscope 解锁 pro (By Maasea)
+http-response ^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ requires-body=1,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/NobyDa/Surge/JS/gyroscope.js,tag=Gyroscope 解锁 pro
+# > JibJab解锁pro
+http-response ^https:\/\/origin-prod-phoenix\.jibjab\.com\/v1\/user requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/jibjab.js,tag=JibJab解锁pro
+# > Termius 解锁本地pro  (By Maasea)
+# http-response https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ requires-body=1,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/NobyDa/Surge/JS/Termius.js,tag=Termius 解锁本地pro
+# > 小影 解锁Vip (By @hiepkimcdtk55)
+http-response ^https:\/\/viva\.v21xy\.com\/api\/rest\/u\/vip requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/vivavideo.js,tag=小影 解锁Vip
+# > 扫描全能王 pro
+http-response ^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/CamScanner.js,tag=扫描全能王 pro
+# > VUE pro
+http-response ^https:\/\/api\.vuevideo\.net\/api\/v1\/(users\/.+\/profile|subtitle\/prepare) requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/VUE.js,tag=VUE pro
+# > NiChi 解锁素材
+http-response ^https?:\/\/mp\.bybutter\.com\/mood\/(official-templates|privileges) requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/NiChi.js,tag=NiChi 解锁素材
+# > PicsArt美易 pro
+http-response ^https:\/\/api\.(picsart|meiease)\.c(n|om)\/users\/show\/me\.json requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/PicsArt.js,tag=PicsArt美易 pro
+# > Splice 视频编辑器 pro
+http-response ^https:\/\/splice\.oracle\.\w+\.com\/devices\/me requires-body=1,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/NobyDa/Surge/JS/Splice.js,tag=Splice 视频编辑器 pro
+
+# > superuv
+# > 驾校一点通 (by @superuv)
+http-response ^https:\/\/vipapi\.jxedt\.com\/vip\/check requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/jxydt.js,tag=驾校一点通
+# > 海豚记账 (by @superuv)
+http-response ^https:\/\/book\.haitunwallet\.com\/app\/vip\/status requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/HTJZ.js,tag=海豚记账
+# > Pocket list (by @superuv)
+http-response ^https:\/\/pocketlists\.com\/api\/v1\/pocketlists.me.get requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/pock.js,tag= Pocket list
+# > 智能证件照相机 (by @superuv)
+http-response ^https:\/\/app\.xunjiepdf\.com\/api\/v4\/virtualactregister requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/znzj.js,tag=智能证件照相机
+# > 猫咪翻译(by @superuv)
+http-response ^http:\/\/miaow\.yiyongcad\.com\/api\/v4\/memprofile requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/mmfy.js,tag=猫咪翻译
+# > 微商助手(by @superuv)
+http-response ^https:\/\/api\.lennou\.com\/user\/info requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/wszs.js,tag=微商助手
+# > gk扫描仪(by @superuv)
+http-response ^https:\/\/api\.gkocr\.com\/api\/userlogin1.php requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/smy.js,tag=gk扫描仪
+
+# > Miao Miao
+# > Bear熊掌记 (By Miao Miao)
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/bear.js,tag=Bear熊掌记
+# > 第一弹 去广告+原画 (By Miao Miao)
+http-response ^https:\/\/api\.diyidan\.net\/v0\.3\/(user\/personal_homepage|vip_user\/info|tv_series\/index\?appChanne) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/Diyidan.js,tag=第一弹 去广告+原画
+
+# > syzzzf
+# > 轻颜相机 & ulike & 蒸汽波相机(vaporcam)三合一 解锁VIP(By @s y & Alex0510)
+http-response ^https:\/\/commerce-.*api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/qyxj.js,tag=轻颜相机 & ulike & 蒸汽波相机(vaporcam)三合一 解锁VIP
+# > CPU Dasher破解(需要ios13+ 恢复购买后禁用掉 By @s y)
+http-response ^https:\/\/p.+-buy\.itunes\.apple\.com\/WebObjects\/MZFinance.woa\/wa\/inAppRegrantPurchaseHistory requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/cupdasher.js,tag=CPU Dasher破解
+
+# > Alex0510
+# > 有道云笔记 (By Alex0510)
+http-response ^https://note.youdao.com/yws/(mapi/payment|api/self) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/ydybj.js,tag=有道云笔记
+# > 彩云小译 (By Alex0510)
+http-response ^https:\/\/api\.interpreter\.caiyunai\.com\/v1\/user requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/cyxy.js,tag=彩云小译
+# > 石墨文档 (By Alex0510)
+http-response ^https://api.shimo.im/users/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/shimo.js,tag=石墨文档
+# > 手机硬件管家 (By Alex0510)
+http-response ^http:\/\/api\.591master\.com\:8081\/(1.0|3.6.8)\/ui(forum|common)\/(downloadwallpaper|getuser) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/sjyjgj.js,tag=手机硬件管家
+# > 花椒视频 (By Alex0510)
+http-response ^http://user.shywck.com/user/userinfo requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/hjsp.js,tag=花椒视频
+
+# > 凉意
+# > 韩剧TV (By 凉意)
+# > 下载地址请看脚本内说明
+http-response ^https\:\/\/hjapi\.bjxkhc\.com\/v2d2\/users\/.*\/member requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/hanjuTV.js,tag=韩剧TV
+# > 筋斗云tv (By 凉意)
+http-response ^http\:\/\/jdytv\.cn\/login\/login\/veifys requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/jdyTV.js,tag=筋斗云tv
+# > 闪电下载vip (By 凉意)
+http-response ^http\:\/\/app\.flashdown365\.com\/ios\/login requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/sdxz.js,tag=闪电下载vip
+# > JAV101无限观看 (By 凉意)
+http-response ^https\:\/\/pwaapi\.gao1gps\.cn\/v1\/user\/info requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/JAV101.js,tag=JAV101无限观看
+
+# > 黑黑酱
+# > 小睡眠（by 黑黑酱）
+http-response ^https:\/\/api\.psy-1\.com\/cosleep\/user\/info requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/xiaoshuimian.js,tag=小睡眠
+# > 西窗烛 （By 黑黑酱）
+http-response ^https:\/\/avoscloud\.com\/1\.1\/users\/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/xcz.js,tag=西窗烛
+# > 美颜相机一次性解锁内购（by黑黑酱）
+http-response ^https:\/\/api\.meiyan\.com\/iap\/verify\.json requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/myxj.js,tag=美颜相机一次性解锁内购
+# > Fit健身会员 （by黑黑酱）
+http-response ^https:\/\/bea\.sportq\.com\/SFitWeb\/sfit\/getUserBaseInfo requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/fit.js,tag=Fit健身会员
+
+# > LTribe
+# > 万里影视 无限时常（by LTribe）
+http-response ^http?:\/\/.*\.arten.cn/login/login requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/Wanliyingshi.js,tag=万里影视
+# > VideoStar Unlock（by LTribe）
+http-response ^https?:\/\/.*\.videostarapp\.com\/scripts\/subsNew\.php requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/VideoStar.js,tag=VideoStar Unlock
+# > 迅捷应用6合1 （by LTribe）
+http-response ^https?:\/\/.*\.xunjie.*\.com\/api\/v\d\/* requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/xunjie.js,yag=迅捷应用6合1
+
+# > 军哥哥
+# > 洪恩双语绘本 (By 军哥哥)
+http-response ^https:\/\/bookapi\.ihuman\.com\/(v1\/get\_user\_info|v1\/get\_purchase\_list) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/hnsyhb.js,tag=洪恩双语绘本
+# > 中国体育直播unlock (By 军哥哥)
+http-response ^http:\/\/rest\.zhibo\.tv\/room\/get\-room\-info\-v430 requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/zgtyzb.js,tag=中国体育直播unlock
+
+# > sunshy
+# > Fantastical 内购解锁 (By @sunshy)
+http-response ^https:\/\/api\.flexibits\.com\/v1\/(auth|account)\/(device|details|appstore-receipt)\/$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/fantastical.js,tag=Fantastical 内购解锁
+# > SoloLearn Unlock PRO & Platinum Moderator (By @sunshy)
+http-response https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/sololearn.js,tag=SoloLearn Unlock PRO & Platinum Moderator
+
+# > CheeryTodo
+# Pillow (By @CheeryTodo)
+http-response https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/pillow.js,tag=Pillow
+# > 马卡龙 (By @CheeryTodo)
+http-response https://app.api.versa-ai.com/pay/order/iap/check requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/mkl.js,tag=马卡龙
+
+# > 流利说.阅读 (by@火羽&@singee)
+http-response ^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/llyd.js,tag=流利说.阅读
+# > 115离线 (请仔细阅读脚本内使用说明 By ikanam)
+http-response ^http:\/\/115\.com\/lx.*$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/115lx.js,tag=115离线
+# > lake
+http-response ^https:\/\/api\.lakecoloring\.com\/v1\/receipt requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/lake.js,tag=lake
+# > 人人视频 解锁AI原画 (by@george Jiang & R)
+http-response ^https:\/\/api\.rr\.tv(\/user\/privilege\/list|\/ad\/getAll|\/rrtv-video\/v4plus\/season\/detail) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/rrtv.js,tag=人人视频AI原画
+# > 每日英语阅读/每日外刊 解锁课程  (By chamberlen)
+http-response ^https:\/\/dict\.eudic\.net\/jingting\/GetThisChapterTaskStatus? requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/mryy.js,tag=每日英语阅读
+# > 菜谱大全解锁vip (By @photonmang)
+http-response https?:\/\/api\.jiaonizuocai\.com requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/cpdq.js,tag=菜谱大全
+# > 头脑吃鸡 (By chavyleung)
+http-response ^https://tncj.hortorgames.com/chicken/fight/(answer|findQuiz) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/tncj/tncj.min.js,tag=头脑吃鸡
+# > Pear雪梨 unlock vip
+http-response ^https:\/\/(www\.baidu.com2\.club|ayk\.tmdidi\.com|m\.pearkin\.com|souhu\.mett\.me|bkcd\.b-cdn\.net)\/(api\/movie\/WatchMovie|api\/Account\/CheckVip|api\/account\/IndexDetail) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/pear.js,tag=Pear雪梨
+# > 克拉壁纸  解锁付费壁纸 (By @Dachaw)
+http-response ^https:\/\/claritywallpaper\.com\/clarity\/api\/(userInfo|special\/queryByCatalogAll) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/clarity.js,tag=克拉壁纸
+# > Peak 解锁Pro
+http-response ^https:\/\/billing\.peakcloud\.org\/billing\/2\/user\/me? requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/peak.js,tag=Peak
+# > IT之家 去新闻列表广告
+http-response ^https?:\/\/api\.ithome\.com\/json\/slide\/index requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/ITHome.js,tag=IT之家去列表广告
+http-response ^https?:\/\/api\.ithome\.com\/json\/(newslist|listpage)\/news requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/ITHome.js,tag=IT之家去列表广告
+# > XMind思维导图
+http-response https:\/\/www\.xmind\.cn\/\_res\/devices requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/XMind.js,tag=XMind思维导图
+# > 奇热小说 解锁收费章节(By @@ios4521)
+http-response ^https://api.weiqire.com/api3/(visitor/|user/unlockCharpter) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/qrxs.js,tag=奇热小说
+# > 可可英语会员
+http-response ^https:\/\/mob2015\.kekenet\.com\/keke\/mobile\/index\.php requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/kkyy.js,tag=可可英语
+# > 飒漫画 (By @u18888)
+http-response ^https:\/\/m\.samh\.xndm\.tech\/userapi\/info\/v1\/getuserinfo requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/Smh.js,tag=飒漫画
+# > 油猴转换器 (by Peng-YM)
+# http-response ^https:\/\/(greasyfork|openuserjs)\.org\/.*\/.*\.user\.js script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GreasyFork/greasy-fork.js, requires-body=true,tag=油猴脚本转换
+
+# > Langkhach越南老哥
+# > all apps monkey
+http-response ^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/monkey.js,tag=all apps monkey
+# > NOMO
+http-response ^https:\/\/nomo\.dafork\.com\/api\/v2\/iap\/ios_product_list requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/nomo.js,tag=NOMO
+# > Faded
+http-response ^https:\/\/api\.madewithfaded\.com\/api\/.+\/subscription\/validate$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/faded.js,tag=Faded
+# > playerxtreme
+http-request ^https:\/\/secure\.istreamer\.com\/backend$ script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/remove-nonematch.js,tag=playerxtreme
+http-response ^https:\/\/secure\.istreamer\.com\/backend$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/playerxtreme.js,tag=playerxtreme
+# > grammarly
+http-response ^https:\/\/subscription\.grammarly\.com\/api\/v1$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/grammarly.js,tag=grammarly
+# > splice
+http-response https:\/\/splice\.oracle\.\w+\.com\/devices\/me requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/splice.js,tag=splice
+# > planner5d
+http-response ^https:\/\/planner5d\.com\/api\/sets requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/planner5d.js,tag=planner5d
+# > Dayone
+http-response ^https:\/\/dayone\.me\/api\/(users|v2\/users\/(account-status|receipt))$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/dayone.js,tag=Dayone
+# > endel
+http-response ^https:\/\/api-production\.endel\.io\/.*\/user$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/endel.js,tag=endel
+# > itranslate
+http-response ^https:\/\/ssl-api\.itranslateapp\.com\/.*\/subscriptions\/.*\/ios$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/itranslate.js,tag=itranslate
+# > photoshop
+http-response ^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/photoshop.js,tag=photoshop
+# > draft
+http-response ^https:\/\/backend\.getdrafts\.com\/api\/.*\/verification requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/draft.js,tag=draft
+# > speak&translate
+http-response ^https:\/\/receipt-validator\.herewetest\.com\/apple\/verifyTransaction$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/speak%26translate.js,tag=speak&translate
+# > over
+http-response ^https:\/\/api\.overhq\.com\/(user\/token\/refresh$|subscription\/verifyReceipt$) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/over.js,tag=over
+# > kinemaster
+http-response ^https:\/\/api-kinemaster-assetstore\.(nexstreaming|kinemasters)\.com\/.+\/product\/verifyReceipt$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/kinemaster.js,tag=kinemaster
+# > musicalm
+http-response ^https:\/\/www\.peacefulsoundsapp\.com\/api\/v1\/init$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/musicalm.js,tag=musicalm
+# > lingokids
+http-response ^https:\/\/api\.lingokids\.com\/v1\/renovate_session$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/lingokids.js,tag=lingokids
+# > Bright
+http-response ^https:\/\/engbright\.com\/app-portal\/apple\/receipt$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/verify_receipt.js,tag=Bright
+# > mojo&noto
+http-response ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/revenuecat.js,tag=mojo&noto
+# > mimo
+http-response ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/mimo.js,tag=mimo
+# > boom
+http-response ^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/verify_receipt.js,tag=boom
+# > musixmatch
+http-response ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/musixmatch.js,tag=musixmatch
+# > productive&sleepzy
+http-response ^https:\/\/subs\.platforms\.team\/.+\/apple\/verify$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/productive.js,tag=productive&sleepzy
+# > Pdfexpert
+http-response ^https:\/\/license\.pdfexpert\.com\/api\/.+\/subscription\/(refresh$|check$) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/pdfexpert.js,tag=Pdfexpert
+# > Lightroom
+http-response ^https:\/\/photos\.adobe\.io\/v2\/accounts requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/lightroom.js,tag=Lightroom
+# > calm
+http-response ^https:\/\/api\.calm\.com\/(me$|receipt$) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/calm.js,tag=calm
+# > zingtv
+http-response ^https?:\/\/api\.tv\.zing\.vn\/.+/user requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/zingtv.js,tag=zingtv
+# > camera360
+http-response ^https:\/\/bmall\.camera360\.com\/api\/(iap\/check-receipt$|mix\/getinfo$) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/camera360.js,tag=camera360
+# > beautyplus
+http-response ^https:\/\/api-intl\.mr\.meitu\.com/.*/subs_offer_elg$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/beautyplus.js,tag=beautyplus
+# > elevate
+http-response ^https:\/\/accounts\.elevateapp\.net\/api\/users\?user%5Bauthentication_token requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/elevate.js,tag=elevate
+# > busuu
+http-response ^https:\/\/api\.busuu\.com\/users\/me requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/busuu.js,tag=busuu
+# > mondly
+http-response ^https:\/\/api\.mondlylanguages\.com\/v1\/ios\/user\/sync$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/mondly.js,tag=mondly
+# > drops
+http-response ^https:\/\/lambda\.us-east-1\.amazonaws\.com/.*/functions\/prod-4-syncPurchases\/invocations$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/drops.js,tag=drops
+# > elsa
+http-response ^https:\/\/pool\.elsanow\.io\/user\/api\/v1\/purchase$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/elsa-response.js,tag=elsa
+# > syn.me
+http-response ^https:\/\/api\.sync\.me\/api\/purchases\/(report_purchases|get_purchases) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/syn.me.js,tag=syn.me
+# > memrise
+http-response ^https:\/\/api\.memrise\.com\/.+\/(me\/$|dashboard\/$|leaderboards\/following\/) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/memrise.js,tag=memrise
+# > nhaccuatui
+http-response ^https:\/\/graph\.nhaccuatui\.com\/.*\/users\/info requires-body=1,max-size=0,debug=1,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/nhaccuatui.js,tag=nhaccuatui
+# > Unfold
+http-response ^https:\/\/api\.unfold\.app\/v1\/ios\/receipts$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/unfold.js,tag=Unfold
+# > videoshow
+http-response ^https:\/\/owa\.videoshowiosglobalserver\.com\/zone\/.+\/iosPayClient\/(payVerify|imeiVerify) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/videoshow.js,tag=videoshow
+# > BuyHack
+http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ requires-body=1,max-size=262144,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/verify_receipt.js,tag=BuyHack
+# > zingmp3
+http-response ^https:\/\/api\.global\.mp3\.zing\.vn\/.+\/getUserInfo\?data= requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/zingmp3.js,tag=zingmp3
+
+# > Liquor030
+http-response ^https?://.*\.snssdk\.com/bds/(feed/stream|comment/cell_reply|cell/cell_comment|cell/detail|ward/list|user/favorite|user/cell_coment|user/cell_userfeed|user/publish_list) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/Liquor030/Sub_Ruleset/master/Script/Super.js, tag=皮皮虾去水印广告
+
+# ＞ 其他
+http-response ^http:\/\/c\.banghankeji\.com\/common\/MemberInfo\/getEntityByCode requires-body=1,script-path=https://raw.githubusercontent.com/qianmo001/ACL4SSR/rm/xxmhvip.js,tag=羞羞漫画会员
+
+[MITM]
+hostname = %APPEND% biz.caiyunapp.com, greasyfork.org, openuserjs.org, 8.8.8.8, 1.1.1.1, bea.sportq.com, api.meiyan.com, pwaapi.gao1gps.cn, avoscloud.com, app.flashdown365.com, m.samh.xndm.tech, mob2015.kekenet.com, vipapi.jxedt.com, api.interpreter.caiyunai.com, pocketlists.com, book.haitunwallet.com, mubu.com, app.xunjiepdf.com, miaow.yiyongcad.com, api.lennou.com, api.gkocr.com, vira.llsapp.com, commerce-.*api.faceu.mobi, commerce-api.faceu.mobi, pan.baidu.com, api.revenuecat.com, api.rr.tv, editorapi.115.com, api.lakecoloring.com, ctrl.playcvn.com, dict.eudic.net, m.client.10010.com, api.wakamoment.ga, *.bh3.com, api.diyidan.net, api.flexibits.com, api.jiaonizuocai.com, api.sololearn.com, tncj.hortorgames.com, bkcd.b-cdn.net, souhu.mett.me, ayk.tmdidi.com, m.pearkin.com, www.baidu.com2.club, claritywallpaper.com, bookapi.ihuman.com, rest.zhibo.tv, note.youdao.com, billing.peakcloud.org, api.ithome.com, www.xmind.cn, *.arten.cn, api.weiqire.com, api.shimo.im, pay.wecut.com, *.videostarapp.com, app.api.versa-ai.com, *.bjxkhc.com, api.591master.com, jdytv.cn, user.shywck.com, *.xunjie*.com, api.psy-1.com, snailsleep.net, mp.weixin.qq.com, 118.89.204.198, *.kuwo.cn, vip1.kuwo.cn, *.xiaoxiao*.com, p.du.163.com, getuserinfo.321mh.com, getuserinfo-globalapi.zymk.cn, ios.fuliapps.com, vsco.co, api.vnision.com, *.my10api.com, sp.kaola.com, r.inews.qq.com, apple.fuliapps.com, newdrugs.dxy.cn, app101.avictown.cc, api.hlo.xyz, api.ijo.xyz, www.luqijianggushi.com, account.wps.*, u.kanghuayun.com, api.gyrosco.pe, api1.dobenge.cn, api.mvmtv.com, mitaoapp.yeduapp.com, origin-prod-phoenix.jibjab.com, www.3ivf.com, pay.guoing.com, api.termius.com, api.bjxkhc.com, viva.v21xy.com, api.gotokeep.com, ap*.intsig.net, mp.bybutter.com, api.vuevideo.net, api.picsart.c*, api.meiease.c*, splice.oracle.*.com, api.gamer.com.tw, ios.xiangjiaoapps.com, apple.xiangjiaoapps.com, *.lagoapps.com, api.gamer.com.tw, *.xiangxiangapps.com, avatar-nct.nixcdn.com, spclient.wg.spotify.com, oa.zalo.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.unfold.app, viva-asia1.vvbrd.com, graph.nhaccuatui.com, api.memrise.com , api.sync.me, pool.elsanow.io, lambda.us-east-1.amazonaws.com, api.mondlylanguages.com, api.busuu.com, owa.videoshowiosglobalserver.com:0, accounts.elevateapp.net, purchases.ws.pho.to, api-intl.mr.meitu.com, bmall.camera360.com, api.tv.zing.vn, api.calm.com, www.calm.com, api.global.mp3.zing.vn, apimboom2.globaldelight.net, photos.adobe.io, license.pdfexpert.com, subs.platforms.team, apic.musixmatch.com, api.getmimo.com, api.revenuecat.com, engbright.com, api.lingokids.com, www.peacefulsoundsapp.com, duolingo-leaderboards-prod.duolingo.com, mobile-api.adguard.com, api.blinkist.com, api-kinemaster-assetstore.*, api.pushover.net, ap*.intsig.net, api.overhq.com, receipt-validator.herewetest.com, lcs-mobile-cops.adobe.io, education.github.com, backend.getdrafts.com, ssl-api.itranslateapp.com, sk.ulysses.app, dayone.me, license.enpass.io, mp.bybutter.com, *.grammarly.com, splice.oracle.*.com, api.keepkeep.com, planner5d.com, secure.istreamer.com, www.api.monkeyuni.net, api.textnow.me, api.madewithfaded.com, nomo.dafork.com, tncj.hortorgames.com, duoting.tatatimes.com, cm.szsszykj.com, avoscloud.com, api.flexibits.com, d.syshhc.top, 115.28.168.103, dbapi.ganbuguo.com, api.591master.com, www.mindmeister.com, sports.lifesense.com, api.pushover.net, subs.platforms.team, api.hulusaas.com, snailsleep.net, music.snailsleep.net, community.snailsleep.net, api.jiaonizuocai.com, nmeditation.snailsleep.net, claritywallpaper.com, subscription-service.neuralprisma.com, mappsv5.caixin.com, diary.7english.cn, api.gotokeep.com, *.ddly666.top, hkj178.com, a.jxjt888.top, lysl2020.com, www.i3zh.com, api2.mubu.com,mp.weixin.qq.com,r.inews.qq.com,m.client.10010.com,api.revenuecat.com,api.gamer.com.tw,ap*.intsig.net,newdrugs.dxy.cn,account.wps.cn,viva.v21xy.com,api.bjxkhc.com,api.vnision.com,c.banghankeji.com
