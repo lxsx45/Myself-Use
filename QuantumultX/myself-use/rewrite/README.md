@@ -10,7 +10,7 @@
 - [TikTok日区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_JP.conf)
 - [TikTok美区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_US.conf)
 - [TikTok韩区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_KR.conf)
-- [待更新······](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/)
+- [Cookie获取](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/Get_Cookie.conf)
 - [待更新······](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/)
 - [待更新······](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/)
 ### 说明 :
