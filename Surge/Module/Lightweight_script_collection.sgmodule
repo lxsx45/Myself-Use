@@ -1,0 +1,49 @@
+#!name=自用脚本（轻量化版）By lxsx45
+#!desc=自己用的脚本去除杂项
+#!system=ios
+# Form lxsx45（https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Lightweight_script_collection.sgmodule）
+[URL Rewrite]
+
+[Script]
+#  哔哩哔哩
+BiliBili_嗶哩嗶哩_1080P高码率+4K畫質 = type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/myinfo\?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/bilibili_diy.js,script-update-interval=0
+
+# 百度（全站替换为手机百度 Quark 的 User-Agent）
+BaiduChangeUA = type=http-request,pattern=^https?:\/\/(?!d\.pcs).*(?<!map)\.baidu\.com,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/asset/BaiduChangeUA.js 
+
+# 解锁Testflight区域限制
+TF下载修正 = type=http-request,pattern=^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$,requires-body=1,script-update-interval=-1,max-size=0,script-path=https://gist.githubusercontent.com/NobyDa/9be418b93afc5e9c8a8f4d28ae403cf2/raw/TF_Download.js
+
+# > 京东App 历史价格 by Small
+京东比价 = type=http-response,requires-body=1,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),script-path=https://raw.githubusercontent.com/githubdulong/Script/master/jd_tb_price.js
+# > 淘宝App 历史价格 修改Surge语法 by Small
+淘宝比价 = type=http-request,requires-body=1,pattern=^http://.+/amdc/mobileDispatch,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/jd_tb_price.js
+淘宝比价 = type=http-response,requires-body=1,pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/jd_tb_price.js
+
+# > 彩云天气位置获取
+type=http-request, pattern=https:\/\/((weather-data\.apple)|(api.weather))\.com, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, require-body=false
+
+# > 酷我音乐SVIP (By yxiaocai)
+Kuwo.js = requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/kuwodl.js,type=http-request,pattern=^https?:\/\/musicpay\.kuwo.cn\/music\.pay\?uid=\d+
+Kuwo.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Kuwo.js,type=http-response,pattern=^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice)
+
+# 克拉壁纸解锁主页壁纸
+http-response ^https:\/\/claritywallpaper\.com\/clarity\/api\/(userInfo|special\/queryByCatalogAll) requires-body=1,max-size=262144,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/clarity.js
+
+
+#  油猴转换器
+Greasy Fork=type=http-response, pattern=^https:\/\/(greasyfork|openuserjs)\.org\/.*\/.*\.user\.js, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GreasyFork/greasy-fork.js, requires-body=true
+
+# Lightroom
+Lightroom.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/aitsc/Scripting/master/Lightroom.js,script-update-interval=0,type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts
+
+# Fimo解锁会员
+Fimo解锁会员 = type=http-response,pattern=^https://server.yoyiapp.com/fimo-user/user$,requires-body=1,max-size=0,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/fimo.js,script-update-interval=0
+
+# 西窗烛
+西窗烛 = type=http-response,pattern=https://lchttpapi.xczim.com/*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/xcz.js,script-update-interval=0
+
+
+
+[MITM]
+hostname = %APPEND% *.baidu.com, www.zhihu.com, testflight.apple.com, api.m.jd.com, trade-acs.m.taobao.com, weather-data.apple.com, api.weather.com, vip1.kuwo.cn, musicpay.kuwo.cn, claritywallpaper.com, greasyfork.org, openuserjs.org, photos.adobe.io, app.bilibili.com, server.yoyiapp.com, lchttpapi.xczim.com, 

@@ -1,10 +1,14 @@
+#!name=(使用)YouTube广告屏蔽
+#!desc=YouTube广告屏蔽，已修正短视频无法观看
+#!system=ios
 
-#!name=YouTube去广告模块
-#!desc=去除YouTube视频内广告
-
-
-[Script]
-YouTube去广告 = type=http-request,pattern=^https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),script-path=https://choler.github.io/Surge/Script/YouTube.js
+[URL Rewrite]
+# YouTube去广告 -> *.googlevideo.com,s.youtube.com,www.youtube.com
+^https?:\/\/[\w-]+\.googlevideo\.com\/((?!(dclk_video_ads|videoplayback)).)+&(oad|ctier) - reject
+ctier=(?!SH)[\w-] citer=A 302
+^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
+^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
+^https?:\/\/\s.youtube.com/api/stats/qoe?.*adformat= - reject
 
 [MITM]
-hostname = %APPEND% *.googlevideo.com
+hostname = %APPEND% *.googlevideo.com,s.youtube.com,www.youtube.com
