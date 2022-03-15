@@ -9,7 +9,7 @@
 Network Information = script-name=Network Information, title="Network Information", content="Please refresh", style=info, update-interval=60
 
 [Script]
-Network Information = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Script/ipcheck.js
+Network Information = type=generic,timeout=3,script-path= https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/ipcheck.js
 
 ----------------------------------------
 
