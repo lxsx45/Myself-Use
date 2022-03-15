@@ -1,5 +1,5 @@
 # 说明
-这里是一些我自己使用的和一些大佬的备份
+QX自用配置：[中文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/master/QuantumultX/myself-use/LXSX45_QX(Chinese).conf) OR [English](https://raw.githubusercontent.com/lxsx45/Myself-Use/master/QuantumultX/myself-use/LXSX45_QX(English).conf)
 ## 免责声明 ：
 
 * 项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
