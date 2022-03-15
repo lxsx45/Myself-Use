@@ -71,7 +71,7 @@ if(net=="en0") {
 
 
   $done({
-      title:"Network traffic Statistics | "+netType,
+      title:"Network Traffic Statistics | "+netType,
       content:`Data ➟ ${upload} | ${download}\n`+
       `Speed ➟ ${outCurrentSpeed} | ${inCurrentSpeed}\n` +
 		`Peak ➟ ${outMaxSpeed} | ${inMaxSpeed}`,
