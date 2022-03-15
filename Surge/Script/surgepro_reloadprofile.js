@@ -6,7 +6,7 @@
 ----------------------------------------
 
 [Script]
-SurgePro_ReloadProfile = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Script/surgepro_reloadprofile.js,argument=icon=crown.fill&color=#f6c970
+SurgePro_ReloadProfile = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/surgepro_reloadprofile.js,argument=icon=crown.fill&color=#f6c970
 
 [Panel]
 SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,title=Startup Time,content=Please refresh,update-interval=1
