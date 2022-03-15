@@ -11,11 +11,11 @@ Network Information = type=generic,timeout=3,script-path=https://raw.githubuserc
 # > DNS刷新
 flushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/flushDNS.js,argument=title=DNS FLush&icon=arrow.clockwise&color=#3d3d5b&server=false
 # > Netflix 解锁检测
-nf_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/b06e911a41036ebc36acf04ddebe7b9a/raw/nf_check.js?version=1633074636264,argument=title=Netflix Availability Detection&fullContent=#REGION_NAME_EN#&onlyOriginalContent=#REGION_NAME_EN#& notAvailableContent=Netflix is not supported.
+nf_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/b06e911a41036ebc36acf04ddebe7b9a/raw/nf_check.js?version=1633074636264,argument=title=Netflix Availability Detection&fullContent=#REGION_NAME_EN#&onlyOriginalContent=Only theoriginal web series is supported in #REGION_NAME_EN#&notAvailableContent=Netflix is not supported.&errorContent=Detect anomalies.
 # > YouTube Premium 解锁检测
-ytb_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js?version=1633074636264,argument=title=YouTube Premium Availability Detection&fullContent=#REGION_NAME_EN#&onlyOriginalContent=#REGION_NAME_EN#& notAvailableContent=YouTube Premium is not supported.
+ytb_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js?version=1633074636264,argument=title=YouTube Premium Availability Detection&availableContent=Fully support Youtube Premium in #REGION_NAME_EN#&notAvailableContent=YouTube Premium is not supported.&errorContent=Detect anomalies.
 # > Disney+ 解锁检测
-disney_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/729fc4c3ac28c3f2e7c4a832d81780f3/raw/disney_check.js?version=1633074636264,argument=title=Disney+ Availability Detection&fullContent=#REGION_NAME_EN#&onlyOriginalContent=#REGION_NAME_EN#& notAvailableContent=Disney+ is not supported.
+disney_check = type=generic,timeout=5,script-path=https://gist.githubusercontent.com/Hyseen/729fc4c3ac28c3f2e7c4a832d81780f3/raw/disney_check.js?version=1633074636264,argument=title=Disney+ Availability Detection&availableContent=Fully support Disney+ in #REGION_NAME_EN&&notAvailableContent=Disney+ is not supported.&errorContent=Detect anomalies.
 # > 配置重载
 Config Reload=script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/Profile-Reload.js,type=generic
 
