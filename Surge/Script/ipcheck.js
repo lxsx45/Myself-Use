@@ -27,7 +27,7 @@ $httpClient.get(url, function(error, response, data){
     
   body = {
     title: "Network Information",
-    content: `IP Address: ${ip}\noperator: ${isp}\nIP location: ${emoji}${country} - ${city}`,
+    content: `IP Address: ${ip}\nOperator: ${isp}\nIP location: ${emoji}${country} - ${city}`,
     icon: "link.icloud",
     'icon-color': "#5AC8FA"
   }
