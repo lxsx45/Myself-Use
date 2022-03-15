@@ -1,7 +1,7 @@
 # 介绍
 自己在用的Surge模组，规则，配置文件
 
-自用配置：[中文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/LXSX45(Chinese).conf) OR [英文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/LXSX45(English).conf)
+自用配置：[中文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/LXSX45(Chinese).conf) OR [英文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/LXSX45(English).conf)
 自用模组：[进入目录](https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Module)
 # 免责声明 ：
 
