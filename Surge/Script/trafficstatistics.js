@@ -6,7 +6,7 @@
 ----------------------------------------
 
 [Script]
-TrafficStatistics = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Script/trafficstatistics.js,argument=icon=arrow.up.arrow.down.circle&color=#5d84f8
+TrafficStatistics = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/trafficstatistics.js,argument=icon=arrow.up.arrow.down.circle&color=#5d84f8
 
 [Panel]
 TrafficStatistics = script-name=TrafficStatistics,title=Network traffic Statistics,content=Please refresh,update-interval=1
