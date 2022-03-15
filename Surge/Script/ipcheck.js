@@ -15,7 +15,7 @@ Network Information = type=generic,timeout=3,script-path=https://raw.githubuserc
 
 */
 
-let url = "http://ip-api.com/json/?lang=zh-CN"
+let url = "http://ip-api.com/json/?lang=en-US"
 
 $httpClient.get(url, function(error, response, data){
     let jsonData = JSON.parse(data)
