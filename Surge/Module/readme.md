@@ -35,6 +35,7 @@
 - [YouTube去广告](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/YouTubeDe-Advertising.sgmodule)
 - [知乎助手Plus版](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Zhihu_plus.sgmodule)
 - [信息面板](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/information_panel.sgmodule)
+- [信息面板（英文版）](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/information_panel(english).sgmodule)
 - [去开屏广告](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/startup.sgmodule)
 - [TikTok日区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Tiktok_JP.sgmodule)
 - [TikTok美区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/Surge/Module/Tiktok_US.sgmodule)

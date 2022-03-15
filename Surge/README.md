@@ -1,6 +1,8 @@
 # 介绍
 自己在用的Surge模组，规则，配置文件
 
+自用配置：[中文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/LXSX45(Chinese).conf) OR [英文版](https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/LXSX45(English).conf)
+自用模组：[进入目录](https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Module)
 # 免责声明 ：
 
 * 项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
