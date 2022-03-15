@@ -1,8 +1,8 @@
 /*
 [Script]
-flushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Script/flushDNS.js
+flushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/flushDNS.js
 // use "title" or "icon" or "color" or "server" in "argument":
-// flushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Script/flushDNS.js,argument=title=DNS FLush&icon=arrow.clockwise&color=#3d3d5b&server=false
+// flushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/flushDNS.js,argument=title=DNS FLush&icon=arrow.clockwise&color=#3d3d5b&server=false
 
 [Panel]
 flushDNS = script-name=flushDNS,title=Flush DNS,content=Please refresh,update-interval=600
