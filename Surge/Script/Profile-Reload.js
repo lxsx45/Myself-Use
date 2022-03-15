@@ -9,7 +9,7 @@
 Config Reload = title=Config Reload,content=Config Reload,style=info,script-name=Config Reload,update-interval=-1
 
 [Script]
-Config Reload=script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/Surge/Script/Profile-Reload.js,type=generic
+Config Reload=script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/Profile-Reload.js,type=generic
 
 ----------------------------------------
 */
