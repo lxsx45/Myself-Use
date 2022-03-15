@@ -8,7 +8,7 @@ Surge配置参考注释，感谢@asukanana,感谢@congcong.
 ----------------------------------------
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/sub_info_panel.js,script-update-interval=0,argument=url=[URL encode 后的机场节点链接]&reset_day=1&title=LXSX45&icon=bonjour&color=#007aff
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Script/sub_info_panel.js,script-update-interval=0,argument=url=[URL encode 后的机场节点链接]&reset_day=1&title=LXSX45&icon=bonjour&color=#007aff
 
 [Panel]
 Sub_info = script-name=Sub_info,update-interval=600
