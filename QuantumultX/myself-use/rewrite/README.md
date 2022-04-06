@@ -1,16 +1,17 @@
 # 注意
 个人自用备份
 ## 内容
-- [知乎去广告](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/zhihu.conf)
-- [解锁微信链接限制](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/UnblockURLinWeChat.conf)
-- [超级搜索](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/Q-Search.conf)
-- [京东淘宝比价](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/PriceHistory.conf)
-- [跳过重定向界面](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/noredirect.conf)
-- [更换 User-Agent 提升体验](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/ChangeUA.conf)
-- [TikTok日区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_JP.conf)
-- [TikTok美区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_US.conf)
-- [TikTok韩区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_KR.conf)
-- [Cookie获取](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/Get_Cookie.conf)
+- [知乎去广告](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/zhihu.snippet)
+- [解锁微信链接限制](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/UnblockURLinWeChat.snippet)
+- [超级搜索百度](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/Q_Search_All_In_One.snippet)
+- [超级搜索DUCKGO](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/Q-Search.snippet)
+- [京东淘宝比价](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/PriceHistory.snippet)
+- [跳过重定向界面](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/noredirect.snippet)
+- [更换 User-Agent 提升体验](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/ChangeUA.snippet)
+- [TikTok日区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_JP.snippet)
+- [TikTok美区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_US.snippet)
+- [TikTok韩区解锁](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/TikTok_KR.snippet)
+- [Cookie获取](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/Get_Cookie.snippet)
 - [待更新······](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/)
 - [待更新······](https://raw.githubusercontent.com/54lxsx/Myself-Use/master/QuantumultX/myself-use/rewrite/)
 ### 说明 :

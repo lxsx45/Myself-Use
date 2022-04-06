@@ -1,0 +1,185 @@
+# Q-Search-All-In-One 
+# From lxsx45 (https://raw.githubusercontent.com/lxsx45/Myself-Use/master/Surge/Module/Q_Search_All_In_One.sgmodule)
+
+# - Safari 内输入 命令 + 空格 + 关键词 快速指定搜索引擎搜索
+
+#  注：先进入设置更改 Safari 默认搜索为 DuckDuckGo
+
+# 可自行修改指令或者添加搜索引擎
+
+# gh：  GitHub搜索
+# gm：  Google图片搜索
+# sof:  Stack Overflow
+# se:   StackExchange
+# wiki: 维基百科
+# wk:   维基中文
+# mg:   Magi
+# tf:   Google 搜索 TestFlight
+
+# yd：有道词典搜索
+# trc: Google 译至中
+# tre: Google 译至英
+# trj: Google 译至日
+
+# db：豆瓣搜索
+# zh: 知乎
+# wb: 微博
+# wx: 微信
+# rd: Reddit
+# ssp: 少数派
+# csdn: CSDN
+
+# zdm: 什么值得买
+# amz: 亚马逊
+# jd: 京东
+# tb: 淘宝
+# tm: 天猫
+
+# ac:  Acfun
+# bli: 哔哩哔哩
+# ytb: YouTube
+# ph:  PornHub 
+
+# gd:  Google Drive资源
+# tgd: TG搜索Google Drive资源
+# zgd: zhao GoogleDrive
+
+# bi: 必应
+# bd：百度搜索
+# ddg：DuckDuckGo 搜索
+# 无指令则转 Google 搜索
+
+
+
+# ＞搜索
+
+#gm   (Google图片)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gm\+([^&]+) url 302 https://www.google.com/search?&tbm=isch&q=$2
+
+# gh   (GitHub)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gh\+([^&]+) url 302 https://github.com/search?q=$2
+
+# sof  (Stack Overflow)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=sof\+([^&]+) url 302 https://stackoverflow.com/search?q=$2
+
+# se  (StackExchange)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=se\+([^&]+) url 302 https://stackexchange.com/search?q=$2
+
+# wa  (WolframAlpha)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wa\+([^&]+) url 302 https://www.wolframalpha.com/input/?i=$2
+
+# wiki  (维基百科)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wiki\+([^&]+) url 302 https://wikipedia.org/wiki/$2
+
+# wk  (维基中文)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wk\+([^&]+) url 302 https://zh.wikipedia.org/wiki/$2
+
+# mg  (Magi)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=mg\+([^&]+) url 302 https://magi.com/search?q=$2
+
+# tf  (Google 搜索 TestFlight)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tf(\+|%20)([^&]+) url 302 https://www.google.com/search?as_q=$3&as_sitesearch=testflight.apple.com
+
+
+# > 翻译
+
+# yd   (有道)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=yd\+([^&]+) url 302 url 302 http://dict.youdao.com/search?q=$2
+
+# trc  (Google 译至中)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=trc\+([^&]+) url 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2
+
+# tre  (Google 译至英)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tre\+([^&]+) url 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$2
+
+# trj  (Google 译至日)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=trj\+([^&]+) url 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=$2
+
+
+# ＞社区
+
+# db：豆瓣
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=db\+([^&]+) url 302 https://m.douban.com/search/?query=$2
+
+# zh: 知乎
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=zh\+([^&]+) url 302 https://www.zhihu.com/search?type=content&q=$2
+
+# wb: 微博
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wb\+([^&]+) url 302 https://s.weibo.com/weibo/$2
+
+# wx: 微信
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wx\+([^&]+) url 302 https://weixin.sogou.com/weixinwap?query=$2
+
+# rd  (Reddit)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=rd\+([^&]+) url 302 https://www.reddit.com/search?q=$2
+
+# tw (Twitter)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tw\+([^&]+) url 302 https://twitter.com/search?q=$2
+
+# ssp: 少数派
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ssp\+([^&]+) url 302 https://sspai.com/search/post/$2
+
+# csdn: CSDN
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=csdn\+([^&]+) url 302 https://so.csdn.net/so/search/s.do?q=$2&t=&u=
+
+
+# > 购物
+
+# zdm: 什么值得买
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=zdm\+([^&]+) url 302 https://search.m.smzdm.com/?v=b&s=$2
+
+# amz: 亚马逊
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=amz\+([^&]+) url 302 https://www.amazon.cn/gp/aw/s/?k=$2
+
+# jd : 京东
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=jd\+([^&]+) url 302 https://so.m.jd.com/ware/search.action?keyword=$1
+
+# tb: 淘宝
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tb\+([^&]+) url 302 https://s.m.taobao.com/h5?q=$2
+
+# tm: 天猫
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tm\+([^&]+) url 302 https://s.m.tmall.com/m/search.htm?q=$2
+
+
+# ＞视频资源
+
+# ac (Acfun)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ac\+([^&]+) url 302 https://www.acfun.cn/search?keyword==$2
+
+# bli (哔哩哔哩) 
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=bli\+([^&]+) url 302 https://m.bilibili.com/search?keyword=$2
+
+# ytb  (YouTube)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ytb\+([^&]+) url 302 https://www.youtube.com/results?search_query=$2
+
+# ph  (PornHub) 
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ph\+([^&]+) url 302 https://cn.pornhub.com/video/search?search=$2
+
+
+# ＞网盘
+
+# gd  (Google Drive)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gd\+([^&]+) url 302 https://www.google.com/search?q=%22Google+Drive%22+$2
+
+# tgd  (t.me/gdurl 搜索 Google Drive 资源)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tgd\+([^&]+) url 302 https://t.me/s/gdurl?q=$2
+
+# zgd  (https://zhao.pp.ua 搜索 Google Drive 资源)
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=zgd(\+|%20)([^&]+) https://zhao.pp.ua/?q=$2
+
+
+# ＞默认搜索
+
+# bi: 必应
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=bi\+([^&]+) url 302 https://cn.bing.com/search?q=$2
+
+# bd: 百度
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=bd\+([^&]+) url 302 https://www.baidu.com/s?wd=$2
+
+# ddg: DuckDuckGo 
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ddg\+([^&]+) url 302 https://duckduckgo.com/?ia=about&q=$2
+
+# 无指令: 谷歌
+^https:\/\/m\.baidu\.com/s\?from=(.+)&word=([^&]+) url 302 https://www.google.com/search?q=$2
+
+hostname = %APPEND% m.baidu.com,www.google.com
